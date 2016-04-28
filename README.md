@@ -1,2 +1,2 @@
 # GitHubTutorial
-Repository a cura di Riccardo Bianchi
+Repository a cura di Riccardo Bianchi e Pamela Sanchini
