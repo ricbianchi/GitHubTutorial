@@ -1,2 +1,2 @@
 # GitHubTutorial
-Repository di test
+Repository a cura di Riccardo Bianchi
